@@ -1,0 +1,3 @@
+[submodule "Star_Wars_Characters"]
+	path = Star_Wars_Characters
+	url = https://github.com/Geovanesou/personaSW
